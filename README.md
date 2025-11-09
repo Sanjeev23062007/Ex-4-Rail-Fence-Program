@@ -93,3 +93,4 @@ return 0;
 
 
 # RESULT
+Thus the program to execute Rain-Fence cipher has been executed successfully and the output has been verified.
